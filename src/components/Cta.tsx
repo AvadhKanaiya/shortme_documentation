@@ -9,7 +9,7 @@ export const Cta = () => {
       <div className="container lg:grid lg:grid-cols-2 place-items-center">
         <div className="lg:col-start-1">
           <h2 className="text-3xl md:text-4xl font-bold ">
-            ShortMe requests you to 
+            ShortMe requests you to
             <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
               {" "}
               put your ideas and code {" "}
@@ -17,8 +17,8 @@ export const Cta = () => {
             on to the board
           </h2>
           <p className="text-muted-foreground text-xl mt-4 mb-8 lg:mb-0">
-          ShortMe values your feedback and innovative ideas and happy to integrate your ideas into the codebase.
-          You can contribute to the project via GitHub, you can report a bug, suggest new features or optimize the code.
+            ShortMe values your feedback and innovative ideas and happy to integrate your ideas into the codebase.
+            You can contribute to the project via GitHub, you can report a bug, suggest new features or optimize the code.
 
           </p>
         </div>
@@ -31,10 +31,13 @@ export const Cta = () => {
             <a href="https://github.com/AvadhKanaiya/shortme_backend" target="_blank">Contribute to the Project - Backend</a>
           </Button>
           <div className="flex justify-center">
-            <Button className="md:w-auto" variant="outline">Contribute to the Docs</Button>
+            <Button className="md:w-auto" variant="outline">
+              <a href="https://github.com/AvadhKanaiya/shortme_documentation" target="_blank">
+                Contribute to the Docs</a>
+            </Button>
           </div>
         </div>
-        
+
       </div>
     </section>
   );
