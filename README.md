@@ -1,7 +1,7 @@
 # ShortMe
 
 ## Tech Stack: <a href="https://ui.shadcn.com/" target="_blank">ShadcnUI</a> + <a href="https://react.dev/" target="_blank">React</a> + <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> + <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>.
-![shortme-demo](https://github.com/AvadhKanaiya/shortme_documentation/blob/main/shortme_demo.mp4)
+![shortme-demo](https://github.com/AvadhKanaiya/shortme_documentation/blob/main/shortme_demo.gif)
 
 ### ShortMe Docs.<a href="https://shadcn-landing-page.vercel.app/" target="_blank">Live Demo</a>
 
