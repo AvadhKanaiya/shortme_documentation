@@ -9,6 +9,7 @@ import { ScrollToTop } from "./components/ScrollToTop";
 import { Services } from "./components/Services";
 import { Services2 } from "./components/Services2";
 import { Sponsors } from "./components/Sponsors";
+import { Analytics } from "@vercel/analytics/react"
 import "./App.css";
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
       <FAQ />
       <Footer />
       <ScrollToTop />
+      <Analytics />
     </>
   );
 }

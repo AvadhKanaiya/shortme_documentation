@@ -30,12 +30,6 @@ export const Cta = () => {
           >
             <a href="https://github.com/AvadhKanaiya/shortme_backend" target="_blank">Contribute to the Project - Backend</a>
           </Button>
-          <div className="flex justify-center">
-            <Button className="md:w-auto" variant="outline">
-              <a href="https://github.com/AvadhKanaiya/shortme_documentation" target="_blank">
-                Contribute to the Docs</a>
-            </Button>
-          </div>
         </div>
 
       </div>
