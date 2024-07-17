@@ -20,19 +20,19 @@ const features: FeatureProps[] = [
   {
     title: "No Login Required",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "This extension allows users to shorten URLs quickly and easily without the need to log in or create an account. Users can instantly shorten URLs with a single click, ensuring a seamless and efficient experience. It prioritizes user privacy and simplicity, making it perfect for anyone looking for a fast and hassle-free URL shortening solution.",
     image: nologin,
   },
   {
     title: "Auto copy into clipboard",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "The auto-copy feature of this URL shortener extension automatically copies the shortened URL to the clipboard as soon as it's created. This eliminates the need for additional clicks or steps, allowing users to immediately paste and share the shortened link wherever they need it.This feature makes URL sharing faster and more seamless.",
     image: copy,
   },
   {
     title: "Share on Social Media",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+      "This feature enables users to share shortened URLs directly via popular social media platforms such as WhatsApp, Twitter, and Gmail. With just a click, users can quickly share their shortened links, making it easy to distribute content across multiple channels. This functionality streamlines the sharing process.",
     image: brand_icons,
   },
 ];
@@ -56,7 +56,7 @@ export const Features = () => {
       <h2 className="text-3xl lg:text-4xl font-bold md:text-center">
         Key{" "}
         <span className="bg-gradient-to-b from-primary/70 to-primary text-transparent bg-clip-text">
-           Features of ShortMe
+          Features of ShortMe
         </span>
       </h2>
 
