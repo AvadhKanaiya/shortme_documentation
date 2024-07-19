@@ -22,11 +22,11 @@ export const Hero = () => {
         </main>
 
         <p className="text-xl text-muted-foreground md:w-11/12 mx-auto">
-          This is Official Documentation of ShortMe extension, Feel free to explore and use Extension.
+          This is the official documentation for the ShortMe extension. Feel free to explore and use the extension.
         </p>
 
         <div className="space-y-4 md:space-y-0 md:space-x-4 flex flex-col md:flex-row items-center justify-center m-auto">
-          <Button className="w-full md:w-1/3"><a href="#existing-extension" rel="noreferrer noopener">Use existing extention</a></Button>
+          <Button className="w-full md:w-1/3"><a href="#existing-extension" rel="noreferrer noopener">Use existing extension</a></Button>
           <Button className="w-full md:w-1/3" variant="outline">
             <a
               rel="noreferrer noopener"
