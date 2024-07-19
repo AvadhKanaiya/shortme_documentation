@@ -22,7 +22,7 @@ export const Hero = () => {
         </main>
 
         <p className="text-xl text-muted-foreground md:w-11/12 mx-auto">
-          This is the official documentation for the ShortMe extension. Feel free to explore and use the extension.
+          This is the official documentation for the ShortMe extension. Feel free to use the extension.
         </p>
 
         <div className="space-y-4 md:space-y-0 md:space-x-4 flex flex-col md:flex-row items-center justify-center m-auto">
